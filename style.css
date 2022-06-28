@@ -1,0 +1,16 @@
+body{
+    background-color: sandybrown;
+}
+#score{
+    font-size: 23px;
+    margin-left: 30px;
+}
+#timer{
+    font-size: 23px;
+    float:right;
+    margin-right: 100px;
+}
+#to_sketch{
+    color:deeppink;
+    font-size: 25px;
+}
